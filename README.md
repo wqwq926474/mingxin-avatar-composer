@@ -23,6 +23,12 @@
 
 这个文件夹可以直接部署到 GitHub Pages、Netlify、Vercel 或任意静态网站托管服务。部署时文件夹里的 `index.html` 是唯一必需文件。
 
+当前线上地址：
+
+<https://wqwq926474.github.io/mingxin-avatar-composer/>
+
+如果在大陆网络环境下无法打开 GitHub Pages，可能需要更换托管平台或使用可访问的 CDN 加速。
+
 如果只在电脑本地预览，建议用静态服务器打开，例如在当前文件夹执行：
 
 ```powershell
